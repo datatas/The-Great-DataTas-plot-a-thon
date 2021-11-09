@@ -6,7 +6,7 @@ Anyone can enter our competition, we will be using Tidy Tuesday data from 2020-0
 
 ### Our rules for entry are:
 
-- Entries must have code and final figure available in a public GitHub repository
+- Entries should have code and final figure available in a public GitHub repository (contact us if you need help with this).
 - Entries can use any programming language
 - Entries must have a Creative Commons license because we will share them via our social media and GitHub repo
 - Editing software is allowed but discouraged
