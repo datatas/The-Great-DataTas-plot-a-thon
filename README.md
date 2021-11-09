@@ -25,6 +25,12 @@ Provide twitter handle (optional)
 - We will be having an info session on 10 Nov to explain all details.
 - Join us in person at IMAS or online to find out how you can participate.
 
+![Picture of the Coveted Trophy[(https://github.com/datatas/The-Great-DataTas-plot-a-thon/blob/main/data_tas_trophy.jpg?raw=true)
+
+## Event Timing
+- Event Starts at 4pm November 10th following the DataTas Event
+- Entries are Due midnight on the 21st of November, giving you ten days to put together your entry. During those ten days, we encourage you to work with others and share ideas, but your final entry must be your own work.
+- The winners will be announced at our final event of the year, on Thursday the 25th of November at 2pm in the IMAS Aurora Lecture Theatre. Only one person can win the DataTas trophy and be crowned the plot-a-thon champion!
 
 # About the Data
 (From The Tidy Tuesday Page)
