@@ -25,7 +25,7 @@ Provide twitter handle (optional)
 - We will be having an info session on 10 Nov to explain all details.
 - Join us in person at IMAS or online to find out how you can participate.
 
-![Picture of the Coveted Trophy[(https://github.com/datatas/The-Great-DataTas-plot-a-thon/blob/main/data_tas_trophy.jpg?raw=true)
+![Picture of the Coveted Trophy](https://github.com/datatas/The-Great-DataTas-plot-a-thon/blob/main/data_tas_trophy.jpg?raw=true)
 
 ## Event Timing
 - Event Starts at 4pm November 10th following the DataTas Event
