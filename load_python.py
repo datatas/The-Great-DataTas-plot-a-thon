@@ -10,15 +10,20 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-# Load and Data cleanup roughly copied from the R version.
+# Load and Data - Data is cleaned from this source.
 peaks=pd.read_csv('data/peaks.csv')
 expeds=pd.read_csv('data/expeditions.csv')
 members=pd.read_csv('data/members.csv')
+# Can also load these files like:
+# members=pd.read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-09-22/members.csv')
+# expeds=pd.read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-09-22/expeditions.csv')
+# peaks=pd.read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-09-22/peaks.csv')
+
 
 
 # Data is already processed
-peaks['climbing_status']=peaks.climbing_status.astype('category')
-peaks['climbing_status_encode']=peaks.climbing_status.cat.codes
+#peaks['climbing_status']=peaks.climbing_status.astype('category')
+#peaks['climbing_status_encode']=peaks.climbing_status.cat.codes
 peak_names=peaks[['peak_id','peak_name']]
 
 
