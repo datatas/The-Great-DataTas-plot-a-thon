@@ -11,8 +11,8 @@ We will be using [Tidy Tuesday data from 2020-09-22](https://github.com/rfordata
 - Entries must have a Creative Commons license because we will share them via our social media and GitHub repo.
 - Editing software is allowed but discouraged.
 - External supporting data is allowed and encouraged.
-- Entries must be submitted by the end of day of Sunday, November 21.
-*Optional*
+- Entries must be submitted by the end of day of Sunday, November 21.  
+***Optional:***
 - Provide your twitter handle.
 
 ### The criteria for choosing the winner are:
