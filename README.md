@@ -27,7 +27,7 @@ We will be using [Tidy Tuesday data from 2020-09-22](https://github.com/rfordata
 ## Event Timing
 We will be having an info session on Wednesday, November 10th to explain all details of this competition. Join us in person at IMAS or [online](https://utas.zoom.us/j/81879713073) to find out how you can participate.
 - Competition starts at 4pm November 10th following the DataTas event
-- Entries are due midnight (11:59 pm) on the 21st of November, giving you 10 days to put together your entry. During those ten days, we encourage you to work with others and share ideas, but your final entry must be your own work.
+- Entries are due midnight (11:59 pm) on November 21st, giving you 10 days to put together your entry. During those ten days, we encourage you to work with others and share ideas, but your final entry must be your own work.
 - The winners will be announced at our final event of the year, on Thursday, November 25th at 2pm in the IMAS Aurora Lecture Theatre. Only one person can win the DataTas trophy and be crowned the plot-a-thon champion!
 
 # About the Data (From The Tidy Tuesday Page)
