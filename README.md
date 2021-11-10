@@ -1,39 +1,36 @@
 # The Great DataTas plot-a-thon
 
-Datatas is organising a Data Visualisation competition. 
-Anyone can enter our competition, we will be using Tidy Tuesday data from 2020-09-22 so anyone can enter.
-(https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-09-22)
+Datatas is organising a Data Visualisation competition: **The Great DataTas plot-a-thon** 
+We will be using [Tidy Tuesday data from 2020-09-22](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-09-22) for our competition. We have chosen a non-scientific dataset for participants to create beautiful plots, so anyone can enter our competition.  
+
 
 ### Our rules for entry are:
 
 - Entries should have code and final figure available in a public GitHub repository (contact us if you need help with this).
-- Entries can use any programming language
-- Entries must have a Creative Commons license because we will share them via our social media and GitHub repo
-- Editing software is allowed but discouraged
-- External supporting data is allowed and encouraged 
-- Entries must be submitted by the end of day of November 21
-
-
-Provide twitter handle (optional)
+- Entries can use any programming language.
+- Entries must have a Creative Commons license because we will share them via our social media and GitHub repo.
+- Editing software is allowed but discouraged.
+- External supporting data is allowed and encouraged.
+- Entries must be submitted by the end of day of Sunday, November 21.
+*Optional*
+- Provide your twitter handle.
 
 ### The criteria for choosing the winner are:
-- Three independent judges from EchoView, BOM and Utas will be judging the entries.
-- Figures must be reproducible
-- Scripts must be easy to read and understand
-- Figures must convey main message clearly
-- Scripts must be developed by person submitting the entry, no copying
-- We will be having an info session on 10 Nov to explain all details.
-- Join us in person at IMAS or online to find out how you can participate.
+- Three independent judges from EchoView, BOM and UTAS/CLEX will be judging the entries.
+- Figures must be reproducible.
+- Scripts must be easy to read and understand.
+- Figures must convey main message clearly.
+- Scripts must be developed by person submitting the entry, no copying.
 
 ![Picture of the Coveted Trophy](https://github.com/datatas/The-Great-DataTas-plot-a-thon/blob/main/data_tas_trophy.jpg?raw=true)
 
 ## Event Timing
-- Event Starts at 4pm November 10th following the DataTas Event
-- Entries are Due midnight on the 21st of November, giving you ten days to put together your entry. During those ten days, we encourage you to work with others and share ideas, but your final entry must be your own work.
-- The winners will be announced at our final event of the year, on Thursday the 25th of November at 2pm in the IMAS Aurora Lecture Theatre. Only one person can win the DataTas trophy and be crowned the plot-a-thon champion!
+We will be having an info session on Wednesday, November 10th to explain all details of this competition. Join us in person at IMAS or [online](https://utas.zoom.us/j/81879713073) to find out how you can participate.
+- Competition starts at 4pm November 10th following the DataTas event
+- Entries are due midnight (11:59 pm) on the 21st of November, giving you 10 days to put together your entry. During those ten days, we encourage you to work with others and share ideas, but your final entry must be your own work.
+- The winners will be announced at our final event of the year, on Thursday, November 25th at 2pm in the IMAS Aurora Lecture Theatre. Only one person can win the DataTas trophy and be crowned the plot-a-thon champion!
 
-# About the Data
-(From The Tidy Tuesday Page)
+# About the Data (From The Tidy Tuesday Page)
 
 ![Picture of the Himalayas from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg/1920px-Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg)
 
