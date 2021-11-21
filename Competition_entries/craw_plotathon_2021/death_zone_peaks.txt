@@ -1,0 +1,40 @@
+	Preferred Name 	Name 	Number 	Ht. m. 	Ht.ft. 	Latitude 	Longitude 	Climbed?
+	Annapurna 	Annapurna 	28001 	8091 	26545 	28o35m24s 	83o49m12s 	   y
+	Annapurna M 	Annapurna M 	28043 	8064 	26457 	28o35m24s 	83o49m48s 	   y
+	Annapurna, E Pk 	Annapurna, E Pk 	28036 	8026 	26332 	28o35m24s 	83o49m12s 	   y
+	Broad Pk 	Broad Pk 	83010 	8047 	26401 	35o48m00s 	76o34m12s 	   y
+	Broad Pk 	Falchan Kangri 	83010 	8047 	26401 	35o48m00s 	76o34m12s 	   y
+	Broad Pk C 	Broad Pk C 	83009 	8006 	26267 	35o49m12s 	76o34m12s 	   y
+	Broad Pk C 	P 25,925 	83009 	8006 	26267 	35o49m12s 	76o34m12s 	   y
+	Broad Pk C 	P 8016 	83009 	8006 	26267 	35o49m12s 	76o34m12s 	   y
+	Broad Pk C 	Zhongyang 	83009 	8006 	26267 	35o49m12s 	76o34m12s 	   y
+	Cho Oyu 	Cho Oyu 	17004 	8201 	26906 	28o05m24s 	86o39m36s 	   y
+	Dhaulagiri 	Dhaulagiri 	29001 	8167 	26795 	28o41m24s 	83o29m24s 	   y
+	Everest 	Everest 	17001 	8848 	29029 	27o58m48s 	86o55m12s 	   y
+	Everest 	Sagarmatha 	17001 	8848 	29029 	27o58m48s 	86o55m12s 	   y
+	Everest 	Qomolungma 	17001 	8848 	29029 	27o58m48s 	86o55m12s 	   y
+	Everest 	Chomolungma 	17001 	8848 	29029 	27o58m48s 	86o55m12s 	   y
+	Gasherbrum 	Gasherbrum 	83001 	8068 	26470 	35o43m48s 	76o41m24s 	   y
+	Gasherbrum 	Hidden Peak 	83001 	8068 	26470 	35o43m48s 	76o41m24s 	   y
+	Gasherbrum II 	Gasherbrum II 	83002 	8035 	26362 	35o45m00s 	76o39m00s 	   y
+	K2 	K2 	84001 	8611 	28251 	35o52m48s 	76o30m36s 	   y
+	K2 	Godwin Austen 	84001 	8611 	28251 	35o52m48s 	76o30m36s 	   y
+	K2 	Chogori 	84001 	8611 	28251 	35o52m48s 	76o30m36s 	   y
+	K2 	Qogir 	84001 	8611 	28251 	35o52m48s 	76o30m36s 	   y
+	Kangchenjunga 	Kangchenjunga 	9001 	8586 	28169 	27o42m00s 	88o09m00s 	   y
+	Kangchenjunga 	Kinchinjanga 	9001 	8586 	28169 	27o42m00s 	88o09m00s 	   y
+	Kangchenjunga C 	Kangchenjunga C 	9003 	8481 	27825 	27o42m00s 	88o09m00s 	   y
+	Kangchenjunga S 	Kangchenjunga S 	9004 	8476 	27809 	27o41m24s 	88o09m00s 	   y
+	Lhotse 	Lhotse 	17002 	8516 	27940 	27o57m36s 	86o55m48s 	   y
+	Lhotse Middle 	Lhotse Middle 	17066 	8430 	27658 	27o57m36s 	86o55m48s 	   y
+	Lhotse Middle 	Lhotse E 	17066 	8430 	27658 	27o57m36s 	86o55m48s 	   y
+	Lhotse Shar 	Lhotse Shar 	17003 	8400 	27559 	27o57m00s 	86o56m24s 	   y
+	Lhotse W 	Lhotse W 	17078 	8440 	27690 	27o57m36s 	86o55m48s 	   y
+	Makalu 	Makalu 	15001 	8463 	27766 	27o52m48s 	87o04m48s 	   y
+	Makalu SE 	Makalu SE 	15015 	8010 	26280 	27o55m12s 	87o06m00s 	   
+	Manaslu 	Manaslu 	25001 	8163 	26782 	28o32m24s 	84o33m36s 	   y
+	Nanga Parbat 	Nanga Parbat 	63001 	8126 	26660 	35o13m48s 	74o35m24s 	   y
+	Shishapangma 	Shishapangma 	20001 	8046 	26398 	28o21m00s 	85o46m48s 	   y
+	Shishapangma 	Xixa Bangma 	20001 	8046 	26398 	28o21m00s 	85o46m48s 	   y
+	Shishapangma 	Gosainthan 	20001 	8046 	26398 	28o21m00s 	85o46m48s 	   y
+	Yalung Kang 	Yalung Kang 	9002 	8505 	27904 	27o42m00s 	88o08m24s 	   y
