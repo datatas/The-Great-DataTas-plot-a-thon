@@ -1,0 +1,27 @@
+{
+    "id": "79B45F8A",
+    "path": "~/R_projects/tidy_tuesday/freddieh_himalayas/freddie.Rmd",
+    "project_path": "freddie.Rmd",
+    "type": "r_markdown",
+    "hash": "832902612",
+    "contents": "",
+    "dirty": false,
+    "created": 1637292296258.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "23,26",
+        "scrollLine": "8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1637305779,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1637305779339,
+    "read_only": false,
+    "read_only_alternatives": []
+}
